@@ -45,7 +45,7 @@ class GetAndDownloadVideo:
 
 
 
-test = "https://www.tiktok.com/t/ZP8AVbaFu/"
-downloader = GetAndDownloadVideo()
+#test = "https://www.tiktok.com/t/ZP8AVbaFu/"
+#downloader = GetAndDownloadVideo()
 
-downloader.download_url(test, "tiktok.mp4")
+#downloader.download_url(test, "tiktok.mp4")

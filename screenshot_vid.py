@@ -28,10 +28,10 @@ class ScreenshotVideo:
 
 
 
-video = "downloads/tiktok.mp4"
+#video = "downloads/tiktok.mp4"
 
-capture = ScreenshotVideo()
+#capture = ScreenshotVideo()
 
-capture.capture_frames(video)
+#capture.capture_frames(video)
 
 
